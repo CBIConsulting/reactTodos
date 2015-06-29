@@ -8,7 +8,6 @@
 	2. add new todos
 	3. delete todos
 	4. set/unset completed todos
-	5. filter todos
 	BONUS: Sort todos by completion state
 
 	Tips:
@@ -71,13 +70,6 @@
 
 //FORM COMPONENT
 	var TaskForm = React.createClass({
-		render: function() {
-			return <div>Code me!</div>;
-		}
-	});
-
-//FILTER COMPONENT
-	var TodoFilter = React.createClass({
 		render: function() {
 			return <div>Code me!</div>;
 		}
